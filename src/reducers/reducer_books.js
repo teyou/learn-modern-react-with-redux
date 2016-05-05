@@ -1,8 +1,8 @@
-export default function(){
+export default function() {
   return[
-    {title : 'Jaaaa'},
-    {title : 'Jaaaa 2'},
-    {title : 'Jaaaa 3'},
-    {title : 'Jaaaa 4'},
-  ]
+    { title : 'Jaaaa'},
+    { title : 'Jaaaa 2'},
+    { title : 'Jaaaa 3'},
+    { title : 'Jaaaa 4'}
+  ];
 }
