@@ -1,8 +1,8 @@
 export default function() {
   return[
-    { title : 'Jaaaa'},
-    { title : 'Jaaaa 2'},
-    { title : 'Jaaaa 3'},
-    { title : 'Jaaaa 4'}
+    { title : 'Jaaaa', pages: 101},
+    { title : 'Jaaaa 2', pages: 53},
+    { title : 'Jaaaa 3', pages: 87},
+    { title : 'Jaaaa 4', pages: 3}
   ];
 }
